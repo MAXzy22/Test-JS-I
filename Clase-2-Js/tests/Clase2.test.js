@@ -1,4 +1,6 @@
-/* eslint-disable no-undef */
+
+/* algo para guardar*/
+/* eslint-disable no-undef dsafsdfsd*/
 const {
   nuevaString,
   nuevoNum,
